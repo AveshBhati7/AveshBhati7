@@ -1,28 +1,79 @@
-<img src="https://raw.githubusercontent.com/pranawmishra/pranawmishra/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AveshBhati7/AveshBhati7/output/snake.svg" alt="Snake animation" />
+</p>
 
-###
+<h1 align="center">Hi 👋, I'm Avesh Bhati</h1>
+<h3 align="center">Data Scientist | ML Engineer | NLP & LLM Systems</h3>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
+---
 
-###
+### 🚀 About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AveshBhati7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AveshBhati7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+- 🔹 Data Scientist with hands-on experience in **Machine Learning, NLP, LLMs, and Search Systems**
+- 🔹 Building **AI-powered search engines, SQL agents, and RAG systems**
+- 🔹 Strong experience with **Python, FastAPI, Docker, SQL, and MLOps**
+- 🔹 Currently working on **semantic & hybrid search, AI agents, and automation**
+- 🔹 Interested in **FAANG-level system design & applied ML**
 
-###
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+</p>
+
+---
+
+### 🧠 Key Skills
+
+- **Machine Learning & Deep Learning**
+- **NLP, LLMs, RAG, Semantic Search**
+- **SQL & Database Design**
+- **FastAPI, Flask, Backend APIs**
+- **Docker & Deployment**
+- **Search Systems (Solr, Vector DBs)**
+- **Data Engineering & Analytics**
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AveshBhati7&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AveshBhati7&layout=compact&theme=dracula" height="150"/>
+</p>
+
+---
+
+### 📌 Featured Work
+
+- 🔍 **AI-Powered Search Engine** – Hybrid (Keyword + Semantic)
+- 🤖 **SQL Agent with LLMs** – Natural language → SQL
+- 🧾 **RAG Systems** – Structured & unstructured data
+- 🖼️ **Image Classification Pipelines**
+- 🗺️ **Geo-Spatial & Traffic Analytics**
+
+---
+
+### 📫 Connect With Me
+
+- 💼 GitHub: https://github.com/AveshBhati7
+- 📧 Email: *aveshbhatiofficial@gmail.com*
+- 🔗 LinkedIn: *www.linkedin.com/in/aveshbhati*
+
+---
+
+⭐ *If you like my work, consider starring my repositories!*
