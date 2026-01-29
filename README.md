@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AveshBhati7/AveshBhati7/output/snake.svg" alt="Snake animation" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Avesh Bhati</h1>
 <h3 align="center">Data Scientist | ML Engineer | NLP & LLM Systems</h3>
